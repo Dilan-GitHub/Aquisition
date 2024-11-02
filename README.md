@@ -34,35 +34,35 @@ Analysis and Visualizations:
 ## Analysis and Visualizations
 
 1. **Long-Term Trends in Vehicle Sales**
-   ![Long-Term Trends in Vehicle Sales](path/to/your/image1.png)
+   ![Long-Term Trends in Vehicle Sales](output.png)
    This chart illustrates the sales trends of light trucks, heavy-duty trucks, foreign vehicles, and domestic vehicles from 1970 to the present, highlighting significant shifts and patterns.
 
 2. **Auto Inventory-to-Sales Ratio vs Total Vehicle Sales**
-   ![Auto Inventory-to-Sales Ratio](path/to/your/image2.png)
+   ![Auto Inventory-to-Sales Ratio](output2.png)
    A dual-axis chart comparing the inventory-to-sales ratio and total vehicle sales over time, showing how inventory levels impact overall sales.
 
 3. **Seasonal Patterns in Vehicle Sales by Month**
-   ![Seasonal Patterns in Vehicle Sales](path/to/your/image3.png)
+   ![Seasonal Patterns in Vehicle Sales](output3.png)
    This graph shows the average monthly sales for various vehicle categories, demonstrating any existing seasonal trends.
 
 4. **Domestic vs. Foreign Light Truck Sales Over Time**
-   ![Domestic vs. Foreign Light Truck Sales](path/to/your/image4.png)
+   ![Domestic vs. Foreign Light Truck Sales](output4.png)
    A comparison of domestic and foreign light truck sales over several decades, emphasizing the growth or decline in each category.
 
 5. **Domestic vs. Foreign Vehicle Market Share Over Time**
-   ![Market Share Comparison](path/to/your/image5.png)
+   ![Market Share Comparison](output5.png)
    This visualization outlines the market share trends of domestic versus foreign vehicles, highlighting changes in consumer preferences.
 
 6. **Correlation Matrix of Vehicle Sales Categories**
-   ![Correlation Matrix](path/to/your/image6.png)
+   ![Correlation Matrix](output6.png)
    A heatmap showing the correlation between different vehicle sales categories, providing insights into which types of vehicle sales are related.
 
 7. **Domestic to Foreign Sales Ratios for Light Trucks and Autos Over Time**
-   ![Sales Ratios Over Time](path/to/your/image7.png)
+   ![Sales Ratios Over Time](output7.png)
    This chart shows the ratio of domestic to foreign sales for light trucks and autos, illustrating how the balance between domestic and foreign sales has evolved.
 
 8. **Comparison of Foreign vs. Domestic Vehicle Sales Over Time**
-   ![Comparison of Sales](path/to/your/image8.png)
+   ![Comparison of Sales](output8.png)
    A side-by-side comparison of foreign and domestic vehicle sales, emphasizing key trends and shifts over the years.
 
 
