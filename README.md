@@ -34,7 +34,7 @@ Analysis and Visualizations:
 ## Analysis and Visualizations
 
 1. **Long-Term Trends in Vehicle Sales**
-   ![Long-Term Trends in Vehicle Sales](output.png)
+   ![Long-Term Trends in Vehicle Sales](output-2.png)
    This chart illustrates the sales trends of light trucks, heavy-duty trucks, foreign vehicles, and domestic vehicles from 1970 to the present, highlighting significant shifts and patterns.
 
 2. **Auto Inventory-to-Sales Ratio vs Total Vehicle Sales**
